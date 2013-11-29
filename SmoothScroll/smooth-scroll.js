@@ -1,5 +1,12 @@
 /** 
-    This script 
+    This script file is made by Tom Schillemand from Ayamii Development.
+    This file is licened under the MIT licence wich let's you free in what you want to do woth thius file
+    PLEASE be kind and leave this section in while distributing to others.
+
+
+    This script will let you use smooth scroll.
+    In the file you include this file in you can parse these funvtion and add the element you want to use these in
+    (the div id for example).   
 */ 
 
 var scrollY = 0;
